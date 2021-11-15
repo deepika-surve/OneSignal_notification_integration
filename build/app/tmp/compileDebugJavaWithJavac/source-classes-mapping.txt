@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/notification_integration/MainActivity.java
+ com.example.notification_integration.MainActivity
+com/example/notification_integration/BuildConfig.java
+ com.example.notification_integration.BuildConfig
